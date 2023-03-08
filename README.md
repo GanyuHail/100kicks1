@@ -1,2 +1,3 @@
-# port4c
-Link Tree Portfolio
+# Predicting With Care
+
+Astrology vs. Financial data science
